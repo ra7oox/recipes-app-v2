@@ -1,2 +1,2 @@
-# recipes-app-v2
-it's the same but the design different
+# recipes-app
+it's a simple website for recipes you can edit for it
